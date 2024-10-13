@@ -1,6 +1,6 @@
 public class homeWork1110 {
     public static void main(String[] args) {
-Enum heute = Enum.DIENSTAG;
+Enum heute = Enum.DONNERSTAG;
 String result = switch (heute) {
     case MONTAG:
         yield "понеділок";
